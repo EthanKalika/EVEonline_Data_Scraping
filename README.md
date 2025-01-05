@@ -1,3 +1,4 @@
+# EVEonline Data Scraper
 This is the work that I did for one of the projects I worked on in college. The goal is to scrape information from the EVEonline site, convert that information into a table, and the merge that table with the data collected by the rest of the team. These instructions first explain what each file in this directory does and then gives instructions on how to use them to recreate the results of the research project.
 
 File Descriptions:
